@@ -1,0 +1,16 @@
+.table thead tr th {
+    border: none;
+}
+
+.table-dark {
+    background-color: #2c2a3f;
+    border-color: #4b405e;
+}
+
+.table-dark td {
+    border-color: #4b405e;
+}
+
+.table-dark th {
+    border-color: #4b405e;
+}
